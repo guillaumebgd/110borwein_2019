@@ -21,3 +21,6 @@ We are told, for the project, to use 3 methods to reproduce the integral behavio
 ## Program Output
 
 ![110borwein Normal Output](https://github.com/guillaumebgd/110borwein_2019/blob/master/.github_assets/110borwein_normal_output.png?raw=true)
+
+I(n) -> The result for <code>n</code> input in the Borwein integral.<br>
+diff -> The difference between <code>π/2</code> and the result.
