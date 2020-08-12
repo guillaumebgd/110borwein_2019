@@ -14,8 +14,8 @@ The main issue will be to reproduce a mathematical integral in a program run by 
 
 We are told, for the project, to use 3 methods to reproduce the integral behavior.
 
-* The trapezoidal method.
 * The midpoint method.
+* The trapezoidal method.
 * The Simpson method.
 
 ## Program Output
