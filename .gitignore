@@ -1,2 +1,5 @@
+#Local Files
 .vscode
+
+#Python Dumps
 __pycache__

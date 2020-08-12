@@ -6,7 +6,7 @@
 ## trapezoidal_method.py
 ##
 
-from borwein_func_to_integrate import borwein_func_to_integrate
+from src.borwein_func_to_integrate import borwein_func_to_integrate
 
 def trapezoidal_method(n: int):
     a = 0

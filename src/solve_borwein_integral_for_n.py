@@ -7,9 +7,9 @@
 ##
 
 from math import pi
-from midpoint_method import midpoint_method
-from trapezoidal_method import trapezoidal_method
-from simpson_method import simpson_method
+from src.midpoint_method import midpoint_method
+from src.trapezoidal_method import trapezoidal_method
+from src.simpson_method import simpson_method
 
 def print_In_and_diff(n: int, In: float):
     diff = abs((pi / 2) - abs(In))

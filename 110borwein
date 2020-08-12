@@ -8,10 +8,10 @@
 ##
 
 import sys
-from error_handling.error_handler import error_handler
-from error_handling.usage import usage
-from solve_borwein_integral_for_n import solve_borwein_integral_for_n
-from my_py_lib.is_integer import is_integer
+from src.error_handling.error_handler import error_handler
+from src.error_handling.usage import usage
+from src.solve_borwein_integral_for_n import solve_borwein_integral_for_n
+from lib.is_integer import is_integer
 
 def main(ac: int, av: list):
     if ac != 2:

@@ -7,7 +7,7 @@
 ##
 
 from math import sin
-from error_handling.error_handler import error_handler
+from src.error_handling.error_handler import error_handler
 
 def borwein_func_to_integrate(n: int, x: float):
     function_result = 1

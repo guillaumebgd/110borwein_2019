@@ -6,7 +6,7 @@
 ## midpoint_method.py
 ##
 
-from borwein_func_to_integrate import borwein_func_to_integrate
+from src.borwein_func_to_integrate import borwein_func_to_integrate
 
 def midpoint_method(n: int):
     a = 0
