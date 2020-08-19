@@ -11,7 +11,7 @@ The goal of the project is to have a program that can solve the Borwein integral
 I advise searching about the Borwein integral on the internet, however, [here](https://en.wikipedia.org/wiki/Borwein_integral) is a wikipedia page about it.<br>
 <br>
 To summarize, this integral is told to approximate <code>π/2</code> for n ![Element symbol](https://wikimedia.org/api/rest_v1/media/math/render/svg/6fe4d5b0a594c1da89b5e78e7dfbeed90bdcc32f) ![Natural number symbol](https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed).<br>
-The main issue will be to reproduce a mathematical integral behavior in a algorithm.<br><br>
+The main issue will be to reproduce a mathematical integral behavior in a algorithm.<br>
 
 ## 3 different methods
 
