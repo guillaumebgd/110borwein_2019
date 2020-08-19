@@ -3,11 +3,10 @@
 # 110borwein_2019
 
 A first year Epitech math project done during the 2nd semester.<br>
-<br>
 
 ## Description
 
-The goal of the project is to have a program that can test the Borwein integral for a given <code>n</code> value.<br>
+The goal of the project is to have a program that can test the Borwein integral for n ![Element symbol](https://wikimedia.org/api/rest_v1/media/math/render/svg/6fe4d5b0a594c1da89b5e78e7dfbeed90bdcc32f) ![Natural number symbol](https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed).<br>
 <br>
 I advise searching about the Borwein integral on the internet, however, [here](https://en.wikipedia.org/wiki/Borwein_integral) is something.<br>
 <br>
