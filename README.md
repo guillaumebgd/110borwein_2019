@@ -15,7 +15,7 @@ The main issue will be to reproduce a mathematical integral behavior in a progra
 
 ## 3 different methods
 
-* The [midpoint](https://www.purplemath.com/modules/midpoint.htm) rule. (the most commonly known -> the reason of the <code>d</code> at the end of an integral)
+* The [midpoint](https://www.purplemath.com/modules/midpoint.htm) rule.
 * The [trapezoidal](https://byjus.com/maths/trapezoidal-rule/) rule.
 * [Simpson's](https://en.wikipedia.org/wiki/Simpson%27s_rule) rule.
 
