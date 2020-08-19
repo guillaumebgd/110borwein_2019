@@ -16,11 +16,9 @@ The main issue will be to reproduce a mathematical integral behavior in a algori
 
 ## 3 different methods
 
-We are told, for the project, to use 3 methods to reproduce the integral behavior.<br>
-
-* The midpoint method.
-* The trapezoidal method.
-* The Simpson method.
+* The [midpoint](https://www.purplemath.com/modules/midpoint.htm) rule. (Sometimes explained by teachers during high school)
+* The [trapezoidal](https://byjus.com/maths/trapezoidal-rule/) rule.
+* [Simpson's](https://en.wikipedia.org/wiki/Simpson%27s_rule) rule.
 
 ## Program Output
 
