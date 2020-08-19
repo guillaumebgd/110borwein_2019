@@ -3,12 +3,16 @@
 # 110borwein_2019
 
 A first year Epitech math project done during the 2nd semester.<br>
+<br>
+
+## Description
+
 The goal of the project is to have a program that can test the Borwein integral for a given <code>n</code> value.<br>
 <br>
-I advise searching about the Borwein integral on the internet but a nice explanation is [here](https://en.wikipedia.org/wiki/Borwein_integral).<br>
+I advise searching about the Borwein integral on the internet, however, [here](https://en.wikipedia.org/wiki/Borwein_integral) is something.<br>
 <br>
 To summarize, this integral is told to approximate <code>π/2</code> for any given <code>n</code> value.<br>
-The main issue will be to reproduce a mathematical integral in a program run by a computer.<br><br>
+The main issue will be to reproduce a mathematical integral behavior in a algorithm.<br><br>
 
 ## 3 different methods
 
